@@ -4,7 +4,7 @@
 
 🌱 Currently learning Spring Boot, React, and TypeScript
 
-🤝 Looking to collaborate on cloud infrastructure, Terraform, React, and software development
+🤝 Looking to collaborate on cloud infrastructure, Terraform, React, and Software development
 
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @Aifthab
 <!---
